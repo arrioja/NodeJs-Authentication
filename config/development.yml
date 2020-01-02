@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'postgres'
+  password: 'sala2ideas'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'

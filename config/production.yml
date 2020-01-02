@@ -1,0 +1,5 @@
+server:
+  origin: http://este-es-el-url-de-la-applicacion-front-end-que-queremos-autorizar-en-produccion.com
+
+db:
+  synchronize: true
